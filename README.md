@@ -22,7 +22,10 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 ![image](https://github.com/amal-2006/Muttiple-capacity-with-infinite-capacity/assets/148410730/1ebee1d3-b93c-4ecd-86a1-1a67a95f26e3)
 
 
-## Program
+## Program:
+Developed by: AMALJOSH MAADHAV J
+
+Register No: 212223230012
 
 import math
 
@@ -91,4 +94,4 @@ print("--------------------------------------------------------------")
 
 
 ## Result : 
-
+Thus the average number of materials in the system and conveyor, waiting time of each material in the system and conveyor is found successfully.
